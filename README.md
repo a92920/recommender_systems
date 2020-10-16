@@ -9,3 +9,5 @@ Sources:
 https://www.kaggle.com/ibtesama/getting-started-with-a-movie-recommendation-system
 https://www.youtube.com/watch?v=dEwl5_QFYNI
 https://www.kaggle.com/jbofill/eda-and-clustering
+
+# Note: We have not saved movies_ratings as it will take space on disk
